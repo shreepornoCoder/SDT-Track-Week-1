@@ -1,0 +1,12 @@
+.banner-container{
+    padding-top: 70px;
+    height: 80vh;
+    background-color: lightblue;
+}
+.image{
+    margin-left: 260px;
+    border-radius: 10px;
+}
+.imgae-form{
+    width: 100px;
+}

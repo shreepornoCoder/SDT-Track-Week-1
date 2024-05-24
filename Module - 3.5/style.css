@@ -1,0 +1,134 @@
+.hockey-img{
+    width: 50px;
+}
+.program-img{
+    width: 500px;
+}
+footer{
+    padding-bottom: 120px;
+}
+.image1{
+    width: 500px;
+}
+.button{
+    width: 130px;
+    height: 50px;
+    border: none;
+    font-weight: bolder;
+    border-radius: 10px;
+}
+.image3{
+    width: 1150px;
+}
+footer{
+    padding-top: 50px;
+    justify-content: space-evenly;
+    display: flex;
+}
+.text-title{
+    font-size: 25px;
+    font-weight: bold;
+}
+.product{
+    width: 650px;
+    height: 230px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.pro-img{
+    padding: 30px;
+}
+.box-bg{
+    width: 300px;
+    height: 170px;
+    background-color: rgb(238, 238, 238);
+    border-radius: 15px;
+}
+.images{
+    width: 400px;
+    height: 670px;
+    border: 2px solid ghostwhite;
+    border-radius: 15px;
+}
+.submit-btn{
+    width: 550px;
+    height: 70px;
+    margin: 30px;
+}
+.f-form{
+    margin-left: 20px;
+}
+.social-media{
+    width: 1000px;
+    height: 230px;
+    background-color: lightgoldenrodyellow;
+    margin: auto;
+    border-radius: 10px;
+}
+.message{
+    width: 750px;
+}
+.question-section{
+    width: 1000px;
+    height: 550px;
+    border: 2px solid gainsboro;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 10px;
+}
+.image-ques{
+    width: 420px;
+}
+.contact-section-form{
+    display: flex; 
+    justify-content: space-between;
+}
+@media only screen and (max-width: 600px) {
+    .image1{
+        width: 400px;
+    }
+    .image3{
+        width: 405px;
+        height: 280px;
+    }
+    .image-ques{
+        width: 300px;
+    }
+    .question-section{
+        display: block;
+        width: 400px;
+        height: 920px;
+        border: 2px solid gainsboro;
+        margin: auto;
+        border-radius: 10px;
+    }
+    .contact-section-form{
+        display: block;
+    }
+    .message{
+        width: 350px;
+    }
+    .submit-btn{
+        width: 360px;
+        height: 70px;
+        margin: 30px;
+    }
+    .social-media{
+        width: 400px;
+        height: 230px;
+        background-color: lightgoldenrodyellow;
+        margin: auto;
+        border-radius: 10px;
+    }
+    .info{
+        margin-left: 20px;
+        text-align: center;
+    }
+    .get-t{
+        margin-left: 50px;
+    }
+    .num{
+        margin-left: 100px;
+    }
+}
